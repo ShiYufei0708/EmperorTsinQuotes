@@ -2,6 +2,9 @@
 this repo keeps recording the Emperor Tsin's Quotes
 welcome to reocord the quotes of this great emperor. 
 
+## 2023.09.16
+秦皇今日午朝，懷欲矜休，出適行步及閱工程典藉兩舉並進，經過久思，遂啟原神。
+
 ## 2023.04.06
 秦皇与弄臣议计算机网络，弄臣赵曰：「舍此繁苛之大作业，不如行考试，考试则得两日之备矣。」秦皇闻言，异之曰：「大作业翕乎矣，二日何不足？」
 
