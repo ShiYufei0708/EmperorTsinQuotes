@@ -2,6 +2,9 @@
 this repo keeps recording the Emperor Tsin's Quotes
 welcome to reocord the quotes of this great emperor. 
 
+## 2023.12.06
+秦皇逢周末欲往沐浴汤泉，失其泳裤，搜覓良久而未獲其覓。
+
 ## 2023.09.16
 秦皇今日午朝，懷欲矜休，出適行步及閱工程典藉兩舉並進，經過久思，遂啟原神。
 
